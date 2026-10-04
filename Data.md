@@ -6,7 +6,7 @@ This project uses the **Brazilian E-Commerce Public Dataset by Olist**, a public
 
 The original dataset is available on Kaggle:
 
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Dataset Contents
 
