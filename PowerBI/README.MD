@@ -5,7 +5,7 @@ The Power BI dashboard was developed using the Olist e-commerce dataset.
 ## Dashboard Preview
 
 ### Dashboard 1 – Business Overview
-![Business Overview](Business-overview.png)
+![Business Overview](O-list%20Business-overview.png)
 
 ### Dashboard 2 – Customer & Product Analysis
 ![Customer & Product Analysis](Customer%20%26%20Product%20analysis.png)
